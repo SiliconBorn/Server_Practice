@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Air pods wireless",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore minima fugiat labore doloribus vero natus qui cumque omnis adipisci eius enim libero aliquam, deleniti provident quae veniam sint nulla temporibus!"
+    },
+    {
+        "id": "2",
+        "name": "Boat rockerz",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore minima fugiat labore doloribus vero natus qui cumque omnis adipisci eius enim libero aliquam, deleniti provident quae veniam sint nulla temporibus!"
+    },
+    {
+        "id": "3",
+        "name": "Nike air less",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore minima fugiat labore doloribus vero natus qui cumque omnis adipisci eius enim libero aliquam, deleniti provident quae veniam sint nulla temporibus!"
+    },
+    {
+        "id": "4",
+        "name": "Addidas samba",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore minima fugiat labore doloribus vero natus qui cumque omnis adipisci eius enim libero aliquam, deleniti provident quae veniam sint nulla temporibus!"
+    },
+    {
+        "id": "5",
+        "name": "Wildcraft backpacks",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore minima fugiat labore doloribus vero natus qui cumque omnis adipisci eius enim libero aliquam, deleniti provident quae veniam sint nulla temporibus!"
+    },
+    {
+        "id": "6",
+        "name": "LG OLED",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore minima fugiat labore doloribus vero natus qui cumque omnis adipisci eius enim libero aliquam, deleniti provident quae veniam sint nulla temporibus!"
+    },
+    {
+        "title": "Jay White",
+        "description": "test product from njpw",
+        "price": 2303,
+        "id": "959da0ba-e099-4679-bf48-465c88db7ac4"
+    },
+    {
+        "title": "Finn Balor",
+        "description": "test product from wwe",
+        "price": 2303,
+        "id": "367e0f24-8f24-4d5d-8927-4e64b4a18266"
+    }
+]
